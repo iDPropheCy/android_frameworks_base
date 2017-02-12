@@ -6628,6 +6628,12 @@ public final class Settings {
         public static final String DEVICE_PAIRED = "device_paired";
 
         /**
+         * Whether to use one tap QS tile action to enable or disable mobile data, wifi, and bluetooth
+         * @hide
+         */
+        public static final String QS_EASY_TOGGLE = "qs_easy_toggle";
+
+        /**
          * Whether to include options in power menu for rebooting into recovery or bootloader
          * @hide
          */
