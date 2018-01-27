@@ -146,4 +146,7 @@
     <java-symbol type="style" name="Theme_DeviceDefault_White_Pink" />
     <java-symbol type="style" name="Theme_DeviceDefault_White_Cyan" />
     <java-symbol type="style" name="Theme_DeviceDefault_White_Grey" />
+
+    <!-- global actions (zen mode buttons) -->
+    <java-symbol type="id" name="option4" />
 </resources>
